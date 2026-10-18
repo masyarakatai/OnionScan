@@ -111,6 +111,12 @@ pieces of work. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to add a
 new analyzer or rule, and the [open issues](../../issues) to find one to
 work on.
 
+## Security
+
+To report a vulnerability in OnionSec privately, follow the process in
+[`SECURITY.md`](SECURITY.md). Do not disclose vulnerabilities in public
+issues, discussions, or pull requests.
+
 ## License
 
 MIT — see [`LICENSE`](LICENSE).
